@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anmol-portfolio/static/css/main.b3a6516e.css",
+    "main.js": "/anmol-portfolio/static/js/main.848139e0.js",
+    "static/media/ai.png": "/anmol-portfolio/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/port7.png": "/anmol-portfolio/static/media/port7.44934e948de9eaa1cd6b.png",
+    "static/media/port4.png": "/anmol-portfolio/static/media/port4.829d741278cc54788c89.png",
+    "static/media/port6.png": "/anmol-portfolio/static/media/port6.5f3e7f426d1e0997dd6b.png",
+    "static/media/port2.jpg": "/anmol-portfolio/static/media/port2.6359feab78e6d07415c1.jpg",
+    "static/media/port1.jpg": "/anmol-portfolio/static/media/port1.caa559359d327a1202d8.jpg",
+    "static/media/port3.png": "/anmol-portfolio/static/media/port3.9577cddd6ca8e5274328.png",
+    "static/media/logo.svg": "/anmol-portfolio/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/anmol-portfolio/index.html",
+    "main.b3a6516e.css.map": "/anmol-portfolio/static/css/main.b3a6516e.css.map",
+    "main.848139e0.js.map": "/anmol-portfolio/static/js/main.848139e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a6516e.css",
+    "static/js/main.848139e0.js"
+  ]
+}
