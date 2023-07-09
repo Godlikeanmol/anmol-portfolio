@@ -1,0 +1,153 @@
+.anmol-port
+{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-footer);
+} 
+.anmol-port-heading
+{
+    text-align: center;
+    margin-bottom: 3rem;
+    width: 100%;
+}
+.anmol-port-heading h1
+{
+    font-size: 62px;
+    font-family: var(--font-family);
+    line-height: 75px;
+    text-align: center;
+    font-weight: 800;
+}
+.anmol-port-btn
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 1rem;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
+.anmol-port-btn p
+{
+    font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 21px;
+    color: white;
+    word-spacing: 2px;
+}
+.anmol-port-links
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.anmol-port-links div
+{
+    width: 250px;
+    margin: 1rem;
+}
+.anmol-port-links_info
+{
+    display: flex;
+    flex-direction: column;
+}
+.anmol-port-links_info h1{
+    color:white;
+    font-family: var(--font-family);
+}
+.anmol-port-links_info p{
+    color: var(--color-text);
+    font-family: var(--font-family);
+    margin: 0 0 5px 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+.anmol-port-links_info span{
+    color: white;
+    font-family: var(--font-family);
+    font-size: 12px;
+    margin: 0 0 10px 0;
+}
+.anmol-port-links_div p i{
+    font-size: 20px;
+    margin: 0 20px 0 0;
+}
+.anmol-port-links_info img
+{
+    width: 118px;
+    height: 30px;
+    margin-bottom: 1rem;
+}
+.anmol-port-links_div
+{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    color: white;
+}
+.anmol-port-links_div h4
+{
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 1rem;
+}
+.anmol-port-links_div p
+{
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
+.anmol-port-copyright
+{
+    text-align: center;
+    width: 100%;
+    color: white;
+    margin-top: 2rem;
+}
+.anmol-port-copyright p
+{
+    font-size: 12px;
+    line-height: 14px;
+    font-family: var(--font-family);
+}
+
+@media screen and (max-width: 850px) {
+    .anmol-port-heading h1
+    {
+        font-size: 44px;
+        line-height: 50px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .anmol-port-heading h1
+    {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .anmol-port-btn p
+    {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .anmol-port-links div
+    {
+        margin: 1rem 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .anmol-port-heading
+    {
+        font-size: 27px;
+        line-height: 38px;
+    }
+}
