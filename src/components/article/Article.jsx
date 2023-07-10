@@ -10,7 +10,7 @@ function Article({imgUrl,imgDate,title}) {
       <div className="gpt3__blog-container_article-content">
         <div>
           <p>{imgDate}</p>
-          <h3>{title}</h3>
+          {/* <h3>{title}</h3> */}
         </div>
         {/* <p>Read Full Article</p> */}
       </div>

@@ -24,15 +24,15 @@ const featuresData = [
 
 function Features() {
   return (
-    <div className="gpt3__features section__padding" id='features'>
-      <div className="gpt3__features-heading">
+    <div className="anmol-port__features section__padding" id='features'>
+      <div className="anmol-port__features-heading">
         <h1 className="gradient__text">
           The Future is Now and you Just Need To Realize It. Step into Future
           Today & Make It Happen
         </h1>
         <p>Request Early Access to Get Started</p>
       </div>
-      <div className="gpt3__feature-container">
+      <div className="anmol-port__feature-container">
           {featuresData.map((item, index)=>
             <Feature title={item.title} text={item.text} key={item.title + item.text}/>
           )}

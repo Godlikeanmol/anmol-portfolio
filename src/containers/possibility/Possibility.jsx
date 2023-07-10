@@ -4,20 +4,20 @@ function Possibility() {
   return (
     <div className="anmol__contact section__padding" id='possibility'>
       <div className="anmol__contact-form">
-      <form action="">
+      <form action="https://formsubmit.co/anmoljat000@email.com" method='post'>
         <div className='anmol__contact-flex'>
             <div className='anmol__contact-fill'>
-                <input className='anmol__contact-input_info' type="text"placeholder='NAME' />
+                <input className='anmol__contact-input_info' name='name' type="text"placeholder='NAME' />
             </div>
             <div className='anmol__contact-fill'>
-                <input className='anmol__contact-input_info' type="email" placeholder='EMAIL'/>
+                <input className='anmol__contact-input_info' type="email" name='email' placeholder='EMAIL'/>
             </div>
           </div>
           <div className='anmol__contact-input'>
-              <textarea className='anmol__contact-input_info' name="mesg" id="msg" cols="30" rows="10" placeholder='WRITE YOUR MEASSAGE'></textarea>          
+              <textarea className='anmol__contact-input_info' name="message" id="msg" cols="30" rows="10" placeholder='WRITE YOUR MEASSAGE'></textarea>          
           </div>
           <div className='anmol__contact-input'>
-            <button type='button' className='anmol__contact-btn'>SEND MESSAGE</button>
+            <button type='submit' className='anmol__contact-btn'>SEND MESSAGE</button>
           </div>
         </form>
       </div>

@@ -9,7 +9,7 @@ function Footer() {
         </h1>
       </div>
       <div className="anmol-port-btn">
-        <p>Download Resume</p>
+        <a href='../../assest/Anmol(Resume).webp' download>Download Resume</a>
       </div>
       <div className="anmol-port-links">
         <div className="anmol-port-links_info">
