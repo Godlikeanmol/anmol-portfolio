@@ -15,7 +15,7 @@ function Blog() {
             <Article imgUrl={port1} imgDate={"*React Project"} title={"Ecommarce Platform for Women's Clothing "}/>    
         </div>
         <div className="anmol-port__blog-container_groupB">
-            <Article imgUrl={port2} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
+            <Article imgUrl={port2} imgDate={"*Html/Css"} title={""}/>
             <Article imgUrl={port4} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
             <Article imgUrl={port6} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
             <Article imgUrl={port7} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
