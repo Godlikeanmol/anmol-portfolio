@@ -16,9 +16,9 @@ function Blog() {
         </div>
         <div className="anmol-port__blog-container_groupB">
             <Article imgUrl={port2} imgDate={"*Html/Css"} title={"Template-1"}/>
-            <Article imgUrl={port4} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
-            <Article imgUrl={port6} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
-            <Article imgUrl={port7} imgDate={"*Html/Css"} title={"GPT-3 and Open Ai is the future.Let us explore how it is?"}/>
+            <Article imgUrl={port4} imgDate={"*Html/Css"} title={"Template-2"}/>
+            <Article imgUrl={port6} imgDate={"*Html/Css"} title={"Template-3"}/>
+            <Article imgUrl={port7} imgDate={"*Html/Css"} title={"Template-4"}/>
 
         </div>
       </div>
